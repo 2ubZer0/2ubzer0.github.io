@@ -1,7 +1,7 @@
 ---
 title: "Dominion Breaker [EASY]"
 date: 2025-11-30 18:27 +0100
-categories: [Labs]
+categories: [labs]
 tags: [Active Directory, ESC7, Certificate Abuse, PrivEsc]
 image: /assets/dominionbreaker.jpg
 ---
