@@ -3,7 +3,6 @@ title: "Dominion Breaker [EASY]"
 date: 2025-11-30 18:27 +0100
 categories: [Labs]
 tags: [Active Directory, ESC7, Certificate Abuse, PrivEsc]
-image: /assets/dominionbreaker.jpg
 ---
 
 <img width="717" height="717" alt="Logo" src="https://github.com/user-attachments/assets/421625e4-bef8-48b8-bee4-2b5bff19288d" />
