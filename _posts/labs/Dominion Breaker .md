@@ -24,8 +24,8 @@ This Home Lab simulates a realistic Active Directory environment designed for pr
 
 ➡ Initial credentials:
 
-User= b.ocean
-PW= 'ItSjUstAvist0r'
+#### User= b.ocean
+#### PW= ItSjUstAvist0r
 
 Your objective is to enumerate, escalate privileges, and ultimately take control of the domain.
 
