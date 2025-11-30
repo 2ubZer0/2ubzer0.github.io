@@ -1,0 +1,7 @@
+/* Fix: Cover image nicht zuschneiden */
+.post-cover img {
+    object-fit: contain !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+}
